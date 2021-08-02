@@ -8,6 +8,6 @@
 
 **Libraries and frameworks**: Os, Time, Requests, Sys, Csv, Pandas, Numpy, BeautifulSoup, Datetime, Missingno, Matplotlib, Seaborn, Sklearn, Scipy, Lazypreict, Lightgbm, Yellowbrick, Streamlit, Heroku
 
-### [Go to the App](https://nlpwithspacy.herokuapp.com/)
+### [Go to the App](https://laaqipm25.herokuapp.com/)
 
-[![Watch Demo Here](https://github.com/SumaiaParveen/Regression-LA-AQI-Prediction/blob/main/AQI.JPG)](https://nlpwithspacy.herokuapp.com/)
+[![Watch Demo Here](https://github.com/SumaiaParveen/Regression-LA-AQI-Prediction/blob/main/AQI.JPG)](https://laaqipm25.herokuapp.com/)
